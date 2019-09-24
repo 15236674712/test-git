@@ -9,4 +9,5 @@ public class User {
     private String age;
     private String bir;
     private Date birth;
+    private String sex;
 }
