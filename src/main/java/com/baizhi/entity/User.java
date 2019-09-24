@@ -10,5 +10,6 @@ public class User {
     private String bir;
     private Date birth;
     private String sex;
+    String salary;
     Integer password;
 }
