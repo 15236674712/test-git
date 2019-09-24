@@ -11,4 +11,5 @@ public class User {
     private Date birth;
     private String sex;
     String salary;
+    Integer password;
 }
