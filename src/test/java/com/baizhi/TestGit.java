@@ -7,4 +7,5 @@ public class TestGit {
     int c = a = b;
   
     int cc=500;
+    int csc = 500;
 }
